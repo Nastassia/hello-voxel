@@ -1,6 +1,6 @@
 {
   "name": "hello-voxel",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
   	"voxel":"0.4.0",
     "voxel-hello-world": "0.6.0",
@@ -9,6 +9,6 @@
     "grunt":"0.4.5"
   },
   "scripts": {
-  	"start": "beefy mygame.js:game.js && npm start"
+  	"start": "beefy mygame.js:game.js"
   }
 }
