@@ -12,6 +12,6 @@
   	"start": "beefy mygame.js:game.js"
   },
   "scripts": {
-    "postinstall": "grunt build"
+    "postinstall": "echo postinstall time; ./node_modules/grunt-cli/bin/grunt heroku:production"
   }
 }
