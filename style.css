@@ -1,0 +1,19 @@
+body {
+	padding:10px;
+}
+
+h1 {
+	color:red;
+}
+
+#container {
+	position: absolute;
+	margin: 0 auto;
+	width: 70%;
+}
+
+canvas {
+	position: relative;
+	margin: 0 auto;
+	width: 70%;
+}
