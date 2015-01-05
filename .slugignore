@@ -1,3 +1,4 @@
+node_modules/
 /node_modules/grunt-karma/
 /node_modules/grunt-protractor-runner/
 /node_modules/karma/
