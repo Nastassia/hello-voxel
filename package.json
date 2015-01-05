@@ -5,6 +5,6 @@
     "voxel-hello-world": "0.6.0"
   },
   "scripts": {
-  	"start": "./node_modules/.bin/browserify mygame.js -o game.js && python -m SimpleHTTPServer"
+  	"start": "./node_modules/.bin/browserify mygame.js -o game.js && ruby -run -e httpd . -p 8080"
   }
 }
