@@ -9,6 +9,6 @@
     "grunt":"0.4.5"
   },
   "scripts": {
-  	"start": "beefy mygame.js:game.js"
+  	"start": "npm start && beefy mygame.js:game.js"
   }
 }
