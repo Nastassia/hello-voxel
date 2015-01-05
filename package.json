@@ -1,6 +1,6 @@
 {
   "name": "hello-voxel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
   	"voxel":"0.4.0",
     "voxel-hello-world": "0.6.0",
