@@ -9,7 +9,9 @@
     "grunt":"0.4.5"
   },
   "scripts": {
-  	"start": "beefy mygame.js:game.js",
-  	"postinstall": "echo postinstall time; ./node_modules/grunt-cli/bin/grunt heroku:production"
-  }
+  	"start": "beefy mygame.js:game.js"
+  },
+  "scripts": {
+    "postinstall": "echo postinstall time; ./node_modules/grunt-cli/bin/grunt heroku:production"
+  },
 }
