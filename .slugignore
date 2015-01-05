@@ -5,3 +5,4 @@ node_modules/
 /node_modules/karma-chrome-launcher/
 /node_modules/karma-mocha/
 /node_modules/karma-ng-html2js-preprocessor/
+.DS_Store
