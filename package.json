@@ -10,6 +10,6 @@
     "grunt-heroku-deploy":"0.1.1"
   },
   "scripts": {
-  	"heroku:production": "beefy mygame.js:game.js"
+  	"default": "beefy mygame.js:game.js"
   }
 }
